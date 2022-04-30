@@ -3,7 +3,7 @@ POC for educational purposes
 
 Application is based on [https://github.com/jerrychong25/node-express-sqlite-jwt-typescript-typeorm](https://github.com/jerrychong25/node-express-sqlite-jwt-typescript-typeorm)
 
-I initially wrote an tamper script but [this]()https://www.craftypenguins.net/capture-the-flag-ctf-challenge-part-5/ article offered a much mature script. written by Curtis Hildebrand
+I initially wrote an tamper script but [this](https://www.craftypenguins.net/capture-the-flag-ctf-challenge-part-5/) article, written by Curtis Hildebrand, offered a much more mature script. 
 
 ## Getting Started
 
